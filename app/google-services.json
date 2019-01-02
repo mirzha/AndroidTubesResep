@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "781978891176",
+    "firebase_url": "https://tubes-c515f.firebaseio.com",
+    "project_id": "tubes-c515f",
+    "storage_bucket": "tubes-c515f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781978891176:android:d0a3b102b66ef78a",
+        "android_client_info": {
+          "package_name": "mobile.tubes.polinema.com.tubesandro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781978891176-mde6aud2mkfkctn18l80df9h57esdkdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPmULN_Nlpe1Lmo50LAwm8l0d3rNOpLTE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
